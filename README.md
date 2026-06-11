@@ -12,5 +12,9 @@ A browser-based calibration and layout tool designed for pixel-perfect screen me
 * **Framework:** Astro, Node.js
 * **Development Environment:** Antigravity IDE
 
+### Preview
+![Interface](Screenshot_1.png)
+![Floating Ruler](Screenshot_2.png)
+![Measurement Tool](Screenshot_3.png)
 ---
 *A tool for designers and developers to ensure design integrity across any screen.*
